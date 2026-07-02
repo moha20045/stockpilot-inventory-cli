@@ -1,0 +1,3 @@
+# TaskForge has no runtime dependencies (standard library only).
+# This file covers development/test tooling.
+pytest>=7.0
