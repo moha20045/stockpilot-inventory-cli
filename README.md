@@ -20,10 +20,10 @@ come back due on schedule.
 
 ## Install
 
-Requires Python 3.9+. No third-party runtime dependencies.
+.
 
 ```bash
-git clone https://github.com/<your-username>/taskforge.git
+git clone https://github.com/moha2004/taskforge.git
 cd taskforge
 pip install -e .
 ```
